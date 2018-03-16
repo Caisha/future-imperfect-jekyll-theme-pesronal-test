@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: Github
+  repo: caisha/future-imperfect-jekyll-theme-pesronal-test
 
 media_folder: media_folder
 
